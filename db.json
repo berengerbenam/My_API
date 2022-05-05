@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "prenom": "Benoit16",
+      "nom": "Mandja",
+      "email": "wandet.morez@gmail.com",
+      "password": "passer123/",
+      "id": 1
+    },
+    {
+      "prenom": "toto",
+      "nom": "nama",
+      "email": "toto.nam@gmail.com",
+      "password": "passer123/",
+      "id": 2
+    }
+  ],
+  "comptes": [
+    {
+      "id": 1,
+      "nom": "Benam",
+      "prenom": "Berenger",
+      "email": "berengerbenam@gmail.com",
+      "password": "passer",
+      "solde": "20000"
+    },
+    {
+      "id": 3,
+      "nom": "Ben",
+      "prenom": "neymar",
+      "email": "psg@gmail.com",
+      "password": "passer"
+    },
+    {
+      "prenom": "Pirlo",
+      "nom": "Maxime",
+      "email": "pirlo@gmail.com",
+      "password": "passer123/",
+      "solde": "20000",
+      "id": 4
+    }
+  ]
+}
